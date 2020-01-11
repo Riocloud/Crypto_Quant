@@ -1,4 +1,4 @@
-# Crypto_Quant
+# Crypto Quant
 To avoid simple repetition
 
 1. Start with simple algorithm
